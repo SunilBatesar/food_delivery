@@ -1,0 +1,28 @@
+[
+    {
+        "RestaurantName": "KFC",
+        "RestaurantId": "restaurant_ID_2",
+        "RestaurantLogo": "assets/images/kfc.png",
+        "RestaurantImage": "assets/images/burger.png",
+        "RestaurantOpentime": "8 A.M",
+        "RestaurantClosetime": "9 P.M",
+        "RestaurantAllOrder": 2500,
+        "RestaurantRatings": 4,
+        "is_RestaurantDiscount": true,
+        "RestaurantDiscount": 20,
+        "RestaurantStartedPrice": 250
+    },
+    {
+        "RestaurantName": "Pizza Hut",
+        "RestaurantId": "restaurant_ID_1",
+        "RestaurantLogo": "assets/images/pizza_hut.png",
+        "RestaurantImage": "assets/images/burger2.png",
+        "RestaurantOpentime": "8 A.M",
+        "RestaurantClosetime": "9 P.M",
+        "RestaurantAllOrder": 250,
+        "RestaurantRatings": 3,
+        "is_RestaurantDiscount": false,
+        "RestaurantDiscount": 0,
+        "RestaurantStartedPrice": 200
+    }
+]

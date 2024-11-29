@@ -1,0 +1,26 @@
+[
+    {
+        "fullName": "Sunil",
+        "emailaddress": "sunil@gmail.com",
+        "mobilenumber": "9466051616",
+        "password": "1234",
+        "image": "assets/images/logo_img.png",
+        "userDateBirth": "12-11-2002"
+    },
+    {
+        "fullName": "Ram",
+        "emailaddress": "ram@gmail.com",
+        "mobilenumber": "1234567890",
+        "password": "1234",
+        "image": "assets/images/logo_img.png",
+        "userDateBirth": "5-1-1999"
+    },
+    {
+        "fullName": "Jaat",
+        "emailaddress": "jaat@gmail.com",
+        "mobilenumber": "102030405060",
+        "password": "1234",
+        "image": "assets/images/logo_img.png",
+        "userDateBirth": "Pta Nhi Hai"
+    }
+]

@@ -1,0 +1,226 @@
+[
+    {
+        "menu_id": "menu_1",
+        "restaurant_ID": "restaurant_ID_1",
+        "category_id": "Desi",
+        "restaurant_Name": "Pizza Hut",
+        "title": "Cappuccino",
+        "type": "Tea",
+        "is_deliverable": false,
+        "Delivery_type": "Free Delivery",
+        "description": "Our fried rice is made from the finest ingredients and veggies. single dish is made with fresh vegetables, rescued.",
+        "image": "assets/images/Cappuccino.png",
+        "price": "250",
+        "discount": 0,
+        "is_live": true,
+        "`created_at`": "15-07-2023",
+        "updated_at": "03-11-2023",
+        "views": "4",
+        "Ratings": 4.0,
+        "total_ordered": "100",
+        "menu_type": "Breakfast",
+        "is_offered": true,
+        "offer": [
+            {
+                "offer1": "10% off on HDFC Credit card",
+                "offer2": "Free"
+            }
+        ],
+        "has_sizes": true,
+        "sizes": [
+            {
+                "size": "small",
+                "price": "20"
+            },
+            {
+                "size": "medium",
+                "price": "25"
+            }
+        ],
+        "Deals_categoreis": [
+            "sita",
+            "ram"
+        ],
+        "ingredients": {
+            "Caffeine": "3 - 5%",
+            "Flavonoids": "20 - 30%",
+            "Amino acids": "1 - 4%",
+            "Vitamins": "0.6 - 1%",
+            "Minerals (water-soluble)": "2 - 4%"
+        },
+        "Ingredients_Image_List": [
+            "assets/images/ingredients_carrot.png",
+            "assets/images/ingredients_garlic.png",
+            "assets/images/ingredients_oil.png",
+            "assets/images/ingredients_rice.png"
+        ]
+    },
+    {
+        "menu_id": "menu_2",
+        "restaurant_ID": "restaurant_ID_1",
+        "category_id": "Middle-Eastern",
+        "restaurant_Name": "Mehfil’s Place",
+        "title": "Egg and cheese sandwich",
+        "description": "Our fried rice is made from the finest ingredients and veggies. single dish is made with fresh vegetables, rescued.",
+        "type": "Egg",
+        "is_deliverable": true,
+        "Delivery_type": "Free Delivery",
+        "image": "assets/images/Egg.png",
+        "price": "200",
+        "discount": 0,
+        "is_live": true,
+        "`created_at`": "15-07-2023",
+        "updated_at": "03-11-2023",
+        "views": "3",
+        "Ratings": 5.0,
+        "total_ordered": "100",
+        "menu_type": "Breakfast",
+        "is_offered": true,
+        "offer": [
+            {
+                "offer1": "10% off on HDFC Credit card",
+                "offer2": "Free"
+            }
+        ],
+        "has_sizes": true,
+        "sizes": [
+            {
+                "size": "small",
+                "price": "20"
+            },
+            {
+                "size": "medium",
+                "price": "25"
+            }
+        ],
+        "Deals_categoreis": [
+            "sita",
+            "ram"
+        ],
+        "ingredients": {
+            "Protein": "2.5%",
+            "Carbohydrates": "14.7g",
+            "Sodium": "19%",
+            "Potassium": "5%",
+            "Rich in Vitamin A, C and B3": ""
+        },
+        "Ingredients_Image_List": [
+            "assets/images/ingredients_carrot.png",
+            "assets/images/ingredients_garlic.png",
+            "assets/images/ingredients_oil.png",
+            "assets/images/ingredients_rice.png"
+        ]
+    },
+    {
+        "menu_id": "menu_3",
+        "restaurant_ID": "restaurant_ID_2",
+        "category_id": "Middle-Eastern",
+        "restaurant_Name": "Burger King",
+        "title": "Wow! Momo",
+        "description": "Our fried rice is made from the finest ingredients and veggies. single dish is made with fresh vegetables, rescued.",
+        "type": "Fast food, Chinese",
+        "is_deliverable": true,
+        "Delivery_type": "Free Delivery",
+        "image": "assets/images/momo.png",
+        "price": "250",
+        "discount": 50,
+        "is_live": true,
+        "`created_at`": "15-07-2023",
+        "updated_at": "03-11-2023",
+        "views": "3",
+        "Ratings": 2.0,
+        "total_ordered": "100",
+        "menu_type": "Breakfast",
+        "is_offered": true,
+        "offer": [
+            {
+                "offer1": "10% off on HDFC Credit card",
+                "offer2": "Free"
+            }
+        ],
+        "has_sizes": true,
+        "sizes": [
+            {
+                "size": "small",
+                "price": "20"
+            },
+            {
+                "size": "medium",
+                "price": "25"
+            }
+        ],
+        "Deals_categoreis": [
+            "sita",
+            "ram"
+        ],
+        "ingredients": {
+            "Protein": "2.5%",
+            "Carbohydrates": "14.7g",
+            "Sodium": "19%",
+            "Potassium": "5%",
+            "Rich in Vitamin A, C and B3": ""
+        },
+        "Ingredients_Image_List": [
+            "assets/images/ingredients_carrot.png",
+            "assets/images/ingredients_garlic.png",
+            "assets/images/ingredients_oil.png",
+            "assets/images/ingredients_rice.png"
+        ]
+    },
+    {
+        "menu_id": "menu_4",
+        "restaurant_ID": "restaurant_ID_2",
+        "category_id": "Middle-Eastern",
+        "restaurant_Name": "KFC Banani",
+        "title": "Istah - Shawarma",
+        "description": "Our fried rice is made from the finest ingredients and veggies. single dish is made with fresh vegetables, rescued.",
+        "type": "Arabian, Lebanese",
+        "is_deliverable": true,
+        "Delivery_type": "Home Delivery",
+        "image": "assets/images/istah.png",
+        "price": "250",
+        "discount": 50,
+        "is_live": true,
+        "`created_at`": "15-07-2023",
+        "updated_at": "03-11-2023",
+        "views": "3",
+        "Ratings": 3.0,
+        "total_ordered": "100",
+        "menu_type": "Breakfast",
+        "is_offered": true,
+        "offer": [
+            {
+                "offer1": "10% off on HDFC Credit card",
+                "offer2": "Free"
+            }
+        ],
+        "has_sizes": true,
+        "sizes": [
+            {
+                "size": "small",
+                "price": "20"
+            },
+            {
+                "size": "medium",
+                "price": "25"
+            }
+        ],
+        "Deals_categoreis": [
+            "sita",
+            "ram"
+        ],
+        "ingredients": {
+            "Protein": "2.5%",
+            "Carbohydrates": "14.7g",
+            "Sodium": "19%",
+            "Potassium": "5%",
+            "Rich in Vitamin A, C and B3": ""
+        },
+        "Ingredients_Image_List": [
+            "assets/images/ingredients_carrot.png",
+            "assets/images/ingredients_garlic.png",
+            "assets/images/ingredients_oil.png",
+            "assets/images/ingredients_rice.png"
+        ]
+    }
+]

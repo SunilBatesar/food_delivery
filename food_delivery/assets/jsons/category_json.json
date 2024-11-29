@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Daily Meals",
+        "image": "assets/images/DailyMeals.png",
+        "category_id": "DailyMeals"
+    },
+    {
+        "title": "Middle- Eastern",
+        "image": "assets/images/MiddleEastern.png",
+        "category_id": "Middle-Eastern"
+    },
+    {
+        "title": "Chinese",
+        "image": "assets/images/Chinese.png", 
+        "category_id": "Chinese"
+    },
+    {
+        "title": "Desi",
+        "image": "assets/images/desi.png",
+        "category_id": "Desi"
+    }
+]
